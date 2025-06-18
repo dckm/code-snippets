@@ -5,7 +5,7 @@
  * Title pattern: “Diploma FYP SW workshop DD-Mon-YY”
  */
 
-*/ to use, change the DEST_FOLDER_ID with the ID from your own Google Drive
+/* to use, change the DEST_FOLDER_ID with the ID from your own Google Drive*/
 
 function createAttendanceForm() {
 
