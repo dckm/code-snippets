@@ -1,3 +1,6 @@
+# place the .jpg you want to combine into the same folder named 1, 2, 3...
+# and run python image-to-pdf.py in terminal
+
 from PIL import Image
 from fpdf import FPDF
 import os
