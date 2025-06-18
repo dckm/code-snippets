@@ -1,4 +1,4 @@
-/**
+er/**
  * Creates a dated, sign-in-required attendance Form,
  * then saves a QR-code PNG for the responder link in the same folder.
  *
@@ -10,7 +10,7 @@
 function createAttendanceForm() {
 
   /* ── 0. Destination folder ───────────────────────────────────── */
-  const DEST_FOLDER_ID = '1HIIhGhmE2I6TWvQADLwalzb67HepkNX2';   // <- your folder
+  const DEST_FOLDER_ID = 'ID';   // <- your folder
   const destFolder     = DriveApp.getFolderById(DEST_FOLDER_ID);
 
   /* ── 1. Date-stamped title ───────────────────────────────────── */
